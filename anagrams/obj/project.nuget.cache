@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2yqGneMHUVlQo3Eajlgh7o1yKdlI46k4Vw/Im2lbgSIaYcRFCDrxQMM4AvbjCfYPjBuXYElSfxP3eu60rWNaAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Freedom 7231\\Desktop\\kataGrup\\anagrams\\anagrams.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Freedom 7231\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

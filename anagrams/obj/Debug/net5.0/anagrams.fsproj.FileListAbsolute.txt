@@ -1,0 +1,10 @@
+C:\Users\Freedom 7231\Desktop\kataGrup\anagrams\bin\Debug\net5.0\anagrams.deps.json
+C:\Users\Freedom 7231\Desktop\kataGrup\anagrams\bin\Debug\net5.0\anagrams.dll
+C:\Users\Freedom 7231\Desktop\kataGrup\anagrams\bin\Debug\net5.0\anagrams.pdb
+C:\Users\Freedom 7231\Desktop\kataGrup\anagrams\bin\Debug\net5.0\anagrams.xml
+C:\Users\Freedom 7231\Desktop\kataGrup\anagrams\obj\Debug\net5.0\anagrams.fsprojAssemblyReference.cache
+C:\Users\Freedom 7231\Desktop\kataGrup\anagrams\obj\Debug\net5.0\anagrams.AssemblyInfoInputs.cache
+C:\Users\Freedom 7231\Desktop\kataGrup\anagrams\obj\Debug\net5.0\anagrams.AssemblyInfo.fs
+C:\Users\Freedom 7231\Desktop\kataGrup\anagrams\obj\Debug\net5.0\anagrams.dll
+C:\Users\Freedom 7231\Desktop\kataGrup\anagrams\obj\Debug\net5.0\anagrams.xml
+C:\Users\Freedom 7231\Desktop\kataGrup\anagrams\obj\Debug\net5.0\anagrams.pdb
